@@ -4,6 +4,7 @@
 ## Hey! I'm Bora. 
 ### Mobile Application Developer
 #### I am currently working as a Flutter Developer !
+##### My Personal Github Account : [<img  width="28" alt="github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank" align="middle">][github]
 
 
 <hr/>
@@ -25,7 +26,6 @@
 ### You can also reach me :
 
 [<img  width="32" alt="Linkedin" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" target="_blank" align="left">][linkedin]
-[<img  width="28" alt="github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank" align="left">][[github]]
 <a href="mailto:boraizzet0@gmail.com"><img  width="32" src="https://img.icons8.com/color/344/gmail-new.png" target="_blank" align="left" ></a>
 <a href="https://stackoverflow.com/users/19469031/bora-ke%c3%a7eci"><img  height="32" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" target="_blank" align="left" ></a>
 <a href="https://www.codewars.com/users/borakececi"><img  width="300" src="https://www.codewars.com/users/borakececi/badges/large" target="_blank" align="right" ></a>
@@ -49,7 +49,7 @@
 
 
 
-[github]: https://www.github.com/borakececi/
+[github]: https://github.com/kececibora
 [linkedin]: https://www.linkedin.com/in/borakececi/
 [codewars]: https://www.codewars.com/users/borakececi
 [mail]: boraizzet0@gmail.com
